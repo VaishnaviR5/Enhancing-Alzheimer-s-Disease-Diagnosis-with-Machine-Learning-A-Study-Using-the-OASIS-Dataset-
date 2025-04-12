@@ -1,0 +1,2 @@
+# Enhancing-Alzheimer-s-Disease-Diagnosis-with-Machine-Learning-A-Study-Using-the-OASIS-Dataset-
+Did  oral presentation on Enhancing Alzheimers Disease Diagnosis with Machine Learning A Study Using the OASIS Dataset in the 2nd International Conference on Evolution in Pure &amp; Applied Mathematics (ICEPAM-2024) organized by Department of Mathematics Akal University, Talwandi Sabo,Bathinda,Punjab (India) during November 20-22, 2024
